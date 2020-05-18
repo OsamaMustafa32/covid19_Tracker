@@ -1,7 +1,5 @@
 # covid19 Tracker
 
-Covid19 Tracker.gif
-https://github.com/OsamaMustafa32/covid19_Tracker/blob/master/Covid19%20Tracker.gif?raw=true
 Covid19 Tracker is a Mobile application built in Flutter development kit.📱 
 
 
