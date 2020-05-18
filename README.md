@@ -1,16 +1,23 @@
-# covid19stats
+# covid19 Tracker
 
-A new Flutter application.
+Covid19 Tracker is a Mobile application built in Flutter development kit.📱 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This application retrieve Covid19 Cases information from Government Websites and represent in a more detailed way.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Credits
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Special thanks to Covid19-India API team and apify for creating and maintaining this databases.
+
+For more info about Covid-19 India API-
+You can vist https://github.com/covid19india/api.
+             https://apify.com/
+             
+Icon used in this project is from
+flaticon
+rawpixel
+
+And also thanks to all the Developers and Contributers in the Flutter Community.
+
+# Getting Started
