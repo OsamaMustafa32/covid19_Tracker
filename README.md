@@ -3,7 +3,7 @@
 ![](https://github.com/OsamaMustafa32/covid19_Tracker/blob/master/Covid19%20Tracker.gif)
 
 ## Can download and install app from link below.
-https://drive.google.com/file/d/1aVzHi6XWqSGchpYZoxyeXIzN0GDRkCP3/view
+https://drive.google.com/file/d/1LC3JB6vP3yOOK5R5_AVsw11Fwfld9heh/view?usp=sharing
 
 
 Covid19 Tracker is a Mobile application built in Flutter development kit.📱 
